@@ -26,6 +26,9 @@ export function Hero() {
                                 <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold text-text-primary tracking-tight">
                                     {siteConfig.author.name}
                                 </h1>
+                                <p className="mt-3 text-sm sm:text-base md:text-lg text-accent font-mono">
+                                    {siteConfig.author.education}
+                                </p>
                             </div>
                             <p className="text-lg sm:text-xl md:text-2xl text-text-secondary font-mono">
                                 {siteConfig.author.tagline}

@@ -9,6 +9,7 @@ export const siteConfig = {
         email: "maheshtadepalli02@gmail.com",
         phone: "+91 9948756708",
         role: "M.Tech Student at IIT Bombay",
+        education: "M.Tech. @ IIT Bombay",
         tagline: "Software Development | Data Science & Machine Learning",
         bio: "M.Tech student at IIT Bombay focused on software development, machine learning, geospatial visualization, and computer vision-driven applications.",
     },
