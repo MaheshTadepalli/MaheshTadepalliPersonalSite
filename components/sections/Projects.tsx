@@ -9,7 +9,7 @@ export function Projects() {
         <Section
             id="projects"
             title="Projects"
-            subtitle="Selected academic projects in augmented reality, geospatial systems, and machine learning"
+            subtitle="Selected academic projects in augmented reality, big data systems, and machine learning"
         >
             <div className="grid md:grid-cols-2 gap-8 lg:gap-12">
                 {projectsData.map((project) => (

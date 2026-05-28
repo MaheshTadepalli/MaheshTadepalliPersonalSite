@@ -100,7 +100,7 @@ export default function RootLayout({
                                 "Machine Learning",
                                 "Data Science",
                                 "Computer Vision",
-                                "Geospatial Visualization",
+                                "Big Data Analytics",
                                 "Augmented Reality",
                                 "Python",
                                 "C++",

@@ -1,6 +1,6 @@
 # Mahesh Tadepalli - Portfolio Website
 
-Personal portfolio website for Mahesh Tadepalli, an M.Tech student at IIT Bombay focused on software development, data science, machine learning, computer vision, and geospatial applications.
+Personal portfolio website for Mahesh Tadepalli, an M.Tech student at IIT Bombay focused on software development, data science, machine learning, computer vision, and big data applications.
 
 ## Highlights
 

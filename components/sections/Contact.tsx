@@ -38,7 +38,7 @@ export function Contact() {
         <Section
             id="contact"
             title="Connect"
-            subtitle="Let's discuss software development, machine learning, geospatial systems, or internship opportunities"
+            subtitle="Let's discuss software development, machine learning, big data systems, or internship opportunities"
             className="bg-surface/30"
         >
             <div className="max-w-3xl mx-auto">
@@ -85,7 +85,7 @@ export function Contact() {
 
                 <div className="mt-12 text-center">
                     <p className="text-text-secondary text-sm">
-                        I am open to internship opportunities and conversations around software development, ML, computer vision, and geospatial applications.
+                        I am open to internship opportunities and conversations around software development, ML, computer vision, and big data applications.
                     </p>
                 </div>
             </div>

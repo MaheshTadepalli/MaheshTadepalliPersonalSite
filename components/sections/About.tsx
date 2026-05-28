@@ -22,7 +22,7 @@ export function About() {
                         <h3 className="text-lg sm:text-xl font-semibold mb-3 text-accent">Project Focus</h3>
                         <p className="text-text-secondary leading-relaxed">
                             I have built a smartphone-based augmented reality application for IIT Bombay campus exploration and a flood-risk
-                            prediction pipeline using historical rainfall data, feature engineering, model benchmarking, and spatial risk mapping.
+                            prediction pipeline using historical rainfall data, feature engineering, model benchmarking, and data-driven risk mapping.
                         </p>
                     </div>
                 </div>
@@ -32,7 +32,7 @@ export function About() {
                         <h3 className="text-lg sm:text-xl font-semibold mb-3 text-accent">Technical Direction</h3>
                         <p className="text-text-secondary leading-relaxed">
                             My technical interests sit at the intersection of software development, data science, machine learning, and
-                            geospatial visualization. I enjoy turning raw data and sensor signals into interfaces that are clear, usable,
+                            big data analytics. I enjoy turning raw data and sensor signals into interfaces that are clear, usable,
                             and technically reliable.
                         </p>
                     </div>

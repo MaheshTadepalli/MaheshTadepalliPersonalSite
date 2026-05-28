@@ -53,7 +53,7 @@ export async function getPinnedRepos(username: string = "MaheshTadepalli"): Prom
         "augmented-reality",
         "flood",
         "machine-learning",
-        "geospatial",
+        "big-data",
     ];
 
     const pinnedRepos = repos.filter((repo) =>

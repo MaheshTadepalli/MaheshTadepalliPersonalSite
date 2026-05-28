@@ -11,7 +11,7 @@ export const siteConfig = {
         role: "M.Tech Student at IIT Bombay",
         education: "M.Tech. @ IIT Bombay",
         tagline: "Software Development | Data Science & Machine Learning",
-        bio: "M.Tech student at IIT Bombay focused on software development, machine learning, geospatial visualization, and computer vision-driven applications.",
+        bio: "M.Tech student at IIT Bombay focused on software development, machine learning, big data, and computer vision-driven applications.",
     },
 
     social: {
@@ -27,7 +27,7 @@ export const siteConfig = {
         "Machine Learning",
         "Data Science",
         "Computer Vision",
-        "Geospatial Visualization",
+        "Big Data Analytics",
         "Unity ARCore Developer",
         "Python Developer",
         "C++ Developer",
